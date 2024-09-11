@@ -8,5 +8,5 @@ Some of the files that I wrote contributed to:
 
 https://github.com/andriusLedas/acad-demo-front/tree/main/tarzanas-lizing/src/app/components/user/car-leasing-form
 https://github.com/andriusLedas/acad-demo-front/blob/main/tarzanas-lizing/src/app/services/leasing-form-service.service.ts
-https://github.com/andriusLedas/acad-demo-front/blob/main/tarzanas-lizing/src/app/components/admin/application-list/application-list.component.ts
+https://github.com/andriusLedas/acad-demo-front/tree/main/tarzanas-lizing/src/app/components/admin/application-list
 https://github.com/andriusLedas/acad-demo-front/blob/main/tarzanas-lizing/src/app/services/application-list.service.ts
