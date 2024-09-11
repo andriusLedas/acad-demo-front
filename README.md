@@ -4,7 +4,7 @@ Contributions:
 
 https://github.com/andriusLedas/acad-demo-front/graphs/contributors
 
-Some of the files that I wrote contributed to:
+Some of the files that I wrote or contributed to:
 
 https://github.com/andriusLedas/acad-demo-front/tree/main/tarzanas-lizing/src/app/components/user/car-leasing-form
 https://github.com/andriusLedas/acad-demo-front/blob/main/tarzanas-lizing/src/app/services/leasing-form-service.service.ts
